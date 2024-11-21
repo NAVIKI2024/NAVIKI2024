@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+This is a test page.
+Good luck with your studies.
 <!--
 **NAVIKI2024/NAVIKI2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
